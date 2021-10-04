@@ -1,3 +1,9 @@
+# Lambda Bundle
+*.zip
+
+# AWS Credentials
+aws_credentials
+
 # Local .terraform directories
 **/.terraform/*
 
